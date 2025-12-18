@@ -17,7 +17,7 @@ The dashboard highlights spending behavior, income segments, credit score distri
 - Excel
 
 ## 📌 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard)
 
 ## 📁 Files
 - `Gujarat_Consumer_Spending.pbix` – Power BI dashboard file
